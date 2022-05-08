@@ -3,14 +3,14 @@
 ### Output Example :
 <p align="center" >
   <img 
-    src="output.PNG" width="80%"
+    src="output.PNG" width="90%"
    />
 </p>
 
 ### Invalid Entry Example :
 <p align="center" >
   <img 
-    src="error.PNG" width="80%"
+    src="error.PNG" width="90%"
    />
 </p>
 
